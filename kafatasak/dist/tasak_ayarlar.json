@@ -1,0 +1,29 @@
+{
+  "autocorrect": true,
+  "lol_mode": true,
+  "auto_period": true,
+  "liste": true,
+  "liste_yolu": "C:/Users/gkhan/Desktop/kafatasak/turkce_kelime_listesi.txt",
+  "tdk": false,
+  "yoksay": [],
+  "sozluk": {
+    "cok": "çok",
+    "isdi": "iyi",
+    "bişe": "bir şey",
+    "porgram": "program",
+    "heme": "hemen",
+    "keliemye": "kelimeye",
+    "gecicek": "geçecek",
+    "yapcam": "yapacağım",
+    "yapamsı": "yapması",
+    "başak": "başka",
+    "bieşyle": "bir şeyle",
+    "günvceleştşir": "güncelleştir",
+    "düzeletemiyor": "düzeltemiyor",
+    "knk": "kanka",
+    "slm": "selam",
+    "nbr": "naber",
+    "iy": "iyi"
+  },
+  "fuzzy": true
+}
